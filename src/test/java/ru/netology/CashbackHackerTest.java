@@ -2,7 +2,7 @@ package ru.netology;
 
 import org.junit.Test;
 
-import static org.testng.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class CashbackHackerTest {
 
